@@ -1,0 +1,4 @@
+singleton
+singleton.exe
+*.o
+*.obj
